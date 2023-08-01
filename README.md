@@ -1,2 +1,2 @@
-# ECE105_Reversi
+# APS105_Reversi
 Reversi game
